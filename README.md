@@ -1,5 +1,5 @@
 # Health-Copilot
-AI Health Intelligence System integrating symptoms and medical reports - DemoProject for learning and reference
+AI Health Intelligence System integrating symptoms and medical reports - DemoProject for learning and reference, exploring Human-AI Experience design.
 
 
 
@@ -274,20 +274,20 @@ Total:
 
 ## Business Models
 
-### 1️⃣ B2C Subscription
+### B2C Subscription
 
 * Personal health assistant
 
-### 2️⃣ B2B Integration
+### B2B Integration
 
 * Medical institutions
 * Health check platforms
 
-### 3️⃣ API Service
+### API Service
 
 * Health risk analysis API
 
-### 4️⃣ Future Platform
+### Future Platform
 
 * Personal health digital twin
 
